@@ -18,7 +18,7 @@ I am aspiring to become a **Business Data Analyst**, with a focus on solving com
 - **Chinese:** Intermediate (HSK Level 4)
 
 ## Certifications
-- Statistics Test Grade 2 (Certified)
+- Statistics Test Grade 2 / 統計検定2級 (Certified)
 
 ## Currently Learning
 - Statistics Test Grade Pre-1 / 統計検定準1級 (In Progress)
