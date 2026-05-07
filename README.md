@@ -1,4 +1,4 @@
-## Hi there! I'm Yuzuki I. 👋
+## Hi there! I'm Yuzuki Iizuka 👋
 
 I am a 3rd-year university student majoring in Business and Commerce.
 I am aspiring to become a **Business Data Analyst**, with a focus on solving complex business problems through econometrics and statistical modeling.
