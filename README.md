@@ -9,6 +9,8 @@ I am aspiring to become a **Business Data Analyst**, with a focus on solving com
 
 ## Tech Stack
 - **Programming Languages:** MATLAB, Python, R, Stata
+- **Platforms & IDEs:** Google Colab, RStudio, Spyder
+- **Management & Productivity:** GitHub, Notion, Obsidian
 
 ## Languages
 - **Japanese:** Native
